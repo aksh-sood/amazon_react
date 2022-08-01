@@ -1,5 +1,5 @@
-import Header from "./Header.js";
-import Home from "./Home.js";
+import Header from "./views/Header.js";
+import Home from "./views/Home.js";
 import './App.css';
 
 function App() {
